@@ -1,0 +1,17 @@
+--- name:default
+# no documentation available for this property
+max_angular_speed: 0.3141592653589793
+# no documentation available for this property
+max_speed: 1.5
+# no documentation available for this property
+min_speed: 0.5
+# no documentation available for this property
+straight_duration: 5.0
+# no documentation available for this property
+turn_duration: 5.0
+--- name:slow
+max_speed: 0.5
+min_speed: 0
+--- name:fast
+max_speed: 4
+min_speed: 2
